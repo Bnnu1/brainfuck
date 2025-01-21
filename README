@@ -1,0 +1,16 @@
+My BrainFuck interpreter
+
+Author:
+Rhea Williams
+
+Date:
+2025-01-22
+
+Compile:
+gcc src/main.c -o build/a.out
+
+Run:
+./build/a.out
+
+Test:
+Run program, enter test/[FILENAME]
